@@ -80,5 +80,7 @@ namespace Gokboerue.Gameplay
                 currentMiningDuration = miningDuration;
             }
         }
+
+
     }
 }

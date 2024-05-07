@@ -73,5 +73,13 @@ namespace Gokboerue.Gameplay
                 canTakeFallDamage = false;
             }
         }
+
+        private void OnTriggerEnter2D(Collider2D collision)
+        {
+            if (collision.tag == "Gem")
+            {
+                Destroy(collision.gameObject, 0.5f);
+            }
+        }
     }
 }
