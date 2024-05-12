@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 782083f95e649f34cbecb601f0c2dd8c, type: 3}
   m_Name: Bottom
   m_EditorClassIdentifier: 
-  algorithm: 7
+  algorithm: 9
   randomSeed: 1
   seed: 0
   fillAmount: 65
