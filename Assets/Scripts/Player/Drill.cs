@@ -5,7 +5,7 @@ namespace Gokboerue.Gameplay
 {
     public class Drill : MonoBehaviour
     {
-        [SerializeField] private float miningDuration = 0.1f;
+        [SerializeField] public float miningDuration = 0.1f;
         [SerializeField] private GroundCheck groundCheck;
         [SerializeField] private Joystick joystick;
         [SerializeField] private GameObject mineParticle;
@@ -53,7 +53,7 @@ namespace Gokboerue.Gameplay
                 if (currentMiningDuration <= 0)
                 {
                     Mine(direction);
-                    currentMiningDuration = 0.1f;
+                    currentMiningDuration = miningDuration;
                 }
             }
             else
