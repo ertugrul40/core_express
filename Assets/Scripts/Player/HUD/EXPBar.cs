@@ -26,7 +26,7 @@ namespace Gokboerue.Gameplay
 
             if (currentEXP >= 100)
             {
-                StartCoroutine(ChangeBool());
+                StartCoroutine(DrillGetsHeated());
             }
             else
             {
@@ -36,7 +36,7 @@ namespace Gokboerue.Gameplay
             }
         }
 
-        IEnumerator ChangeBool()
+        IEnumerator DrillGetsHeated()
         {
             // Change the mining to false
             // Check if drill is assigned
@@ -46,11 +46,11 @@ namespace Gokboerue.Gameplay
                 yield break;
             }
 
-            Debug.Log("ChangeBool coroutine started");
+            Debug.Log("DrillGetsHeated coroutine started");
 
             // Change the mining to false
             drill.miningDuration = 10f;
-            Debug.Log("drill.isMining set to false");
+            Debug.Log("drill.miningDuration set to 10f");
 
             // Wait for 2 seconds
             yield return new WaitForSeconds(2);
@@ -59,7 +59,7 @@ namespace Gokboerue.Gameplay
 
             // Change the mining back to true
             drill.miningDuration = 0.1f;
-            Debug.Log("drill.isMining set to true");
+            Debug.Log("drill.miningDuration set to  0.1f");
 
             UpdateText();
             UpdateExpBar();
