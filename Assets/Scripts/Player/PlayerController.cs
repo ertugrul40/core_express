@@ -76,7 +76,7 @@ namespace Gokboerue.Gameplay
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            if (collision.tag == "Gem")
+            if (collision.tag == "Ore")
             {
                 Destroy(collision.gameObject, 0.5f);
             }
