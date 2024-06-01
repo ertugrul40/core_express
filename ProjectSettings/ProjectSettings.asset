@@ -845,10 +845,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 54ecaaaa-a9b5-44b4-ae82-aab4464e661c
+  cloudProjectId: 10a8105e-f8f8-416a-b304-32a8f4f11b96
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: core_express 2024-06-01_12-09-13
+  projectName: core_express
   organizationId: breadth-first-studio
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
