@@ -58,7 +58,7 @@ namespace Gokboerue.Gameplay
             currentEXP = 0;
 
             // Change the mining back to true
-            drill.miningDuration = 0.1f;
+            drill.miningDuration = 0.05f;
             Debug.Log("drill.miningDuration set to  0.1f");
 
             UpdateText();

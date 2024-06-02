@@ -5,7 +5,7 @@ namespace Gokboerue.Gameplay
 {
     public class Drill : MonoBehaviour
     {
-        [SerializeField] public float miningDuration = 0.1f;
+        [SerializeField] public float miningDuration = 0.05f;
         [SerializeField] private GroundCheck groundCheck;
         [SerializeField] private Joystick joystick;
         [SerializeField] private GameObject mineParticle;
@@ -53,13 +53,13 @@ namespace Gokboerue.Gameplay
                 if (currentMiningDuration <= 0)
                 {
                     Mine(direction);
-                    currentMiningDuration = miningDuration;
+                    currentMiningDuration = 0.05f;
                 }
             }
             else
             {
                 isMining = false;
-                currentMiningDuration = miningDuration;
+                currentMiningDuration = 0.05f;
 
                 float angle = Mathf.Atan2(previousDirection.y, previousDirection.x) * Mathf.Rad2Deg - 90;
                 transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
