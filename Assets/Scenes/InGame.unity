@@ -403,6 +403,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_2 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -548,6 +552,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -739,6 +747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &52172754 stripped
@@ -800,6 +812,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -946,6 +962,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -1101,6 +1121,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_3 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -1206,6 +1230,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -1499,6 +1527,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_1 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -1604,6 +1636,10 @@ PrefabInstance:
     - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
       propertyPath: m_Name
       value: Ore_2_3 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
@@ -2057,6 +2093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &145865568 stripped
@@ -2273,6 +2313,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -2771,6 +2815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &189381144 stripped
@@ -2953,6 +3001,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -3352,6 +3404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &210532668 stripped
@@ -3369,6 +3425,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -3930,6 +3990,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &232365131 stripped
@@ -3947,6 +4011,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -4093,6 +4161,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -4284,6 +4356,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &287224899 stripped
@@ -4470,6 +4546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -4531,6 +4611,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -4677,6 +4761,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -4854,6 +4942,82 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &314491463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 314491464}
+  - component: {fileID: 314491466}
+  - component: {fileID: 314491465}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &314491464
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314491463}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1482280792}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -28}
+  m_SizeDelta: {x: 868.3292, y: 925.8228}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &314491465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314491463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 5b435d3758fd2cc4d8562bfc35bfede0, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &314491466
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314491463}
+  m_CullTransparentMesh: 1
 --- !u!1 &320994166
 GameObject:
   m_ObjectHideFlags: 0
@@ -6177,6 +6341,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -6379,6 +6547,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &399156144 stripped
@@ -6396,6 +6568,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -6559,6 +6735,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -6942,6 +7122,10 @@ PrefabInstance:
     - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
       propertyPath: m_Name
       value: Ore_2_3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
@@ -7368,6 +7552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &461813214 stripped
@@ -7514,6 +7702,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &466294789 stripped
@@ -7531,6 +7723,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -7593,6 +7789,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -8001,6 +8201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_3 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -8139,6 +8343,10 @@ PrefabInstance:
     - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
       propertyPath: m_Name
       value: Ore_2_2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
@@ -8326,6 +8534,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -8710,6 +8922,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -9874,6 +10090,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_3 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -9935,6 +10155,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -10042,6 +10266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &591682757 stripped
@@ -10059,6 +10287,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -10121,6 +10353,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -10646,6 +10882,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &620599338 stripped
@@ -10959,6 +11199,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -12199,6 +12443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_2 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -12379,6 +12627,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -12524,6 +12776,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -12715,6 +12971,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &805401653 stripped
@@ -12861,6 +13121,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &811678531 stripped
@@ -12878,6 +13142,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -12984,6 +13252,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -13215,6 +13487,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &833044166 stripped
@@ -13276,6 +13552,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -13617,6 +13897,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -13678,6 +13962,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -13869,6 +14157,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &867851640 stripped
@@ -13931,6 +14223,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &870405777 stripped
@@ -13992,6 +14288,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -45736,6 +46036,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -46094,6 +46398,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &921327323 stripped
@@ -46177,6 +46485,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -46324,6 +46636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -46469,6 +46785,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -46744,6 +47064,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &945425802 stripped
@@ -46974,6 +47298,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &974586361 stripped
@@ -47120,6 +47448,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &997927262 stripped
@@ -47137,6 +47469,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -47244,6 +47580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &1012060908 stripped
@@ -47297,6 +47637,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -47612,6 +47956,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -47718,6 +48066,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1036078464 stripped
@@ -47819,6 +48171,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -48244,6 +48600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1065333000 stripped
@@ -48306,6 +48666,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &1066437751 stripped
@@ -48323,6 +48687,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -48470,6 +48838,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_2 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -48616,6 +48988,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -48753,6 +49129,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -49102,6 +49482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -49167,6 +49551,7 @@ GameObject:
   - component: {fileID: 1122651614}
   - component: {fileID: 1122651615}
   - component: {fileID: 1122651616}
+  - component: {fileID: 1122651617}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -49243,9 +49628,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.005462289, y: 0}
+  m_Offset: {x: 0.0054035187, y: 0.30787635}
   serializedVersion: 2
-  m_Radius: 0.9747952
+  m_Radius: 1.1051865
 --- !u!114 &1122651615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49278,6 +49663,32 @@ MonoBehaviour:
   expBarText: {fileID: 1617298102}
   currentEXP: 0
   drill: {fileID: 181246145}
+--- !u!61 &1122651617
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1122651610}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.7316592}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 2.4633183}
+  m_EdgeRadius: 0
 --- !u!1 &1124856460
 GameObject:
   m_ObjectHideFlags: 0
@@ -49629,6 +50040,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -81873,6 +82288,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -82147,6 +82566,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &1175343208 stripped
@@ -82208,6 +82631,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -82496,6 +82923,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -82557,6 +82988,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -82620,6 +83055,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -82681,6 +83120,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -82788,6 +83231,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &1239203673 stripped
@@ -82805,6 +83252,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -83119,6 +83570,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -83737,6 +84192,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -83995,6 +84454,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1341857776 stripped
@@ -84096,6 +84559,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -84203,6 +84670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1367717611 stripped
@@ -84220,6 +84691,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -84619,6 +85094,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -84977,6 +85456,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &1396696965 stripped
@@ -85170,6 +85653,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1419507108 stripped
@@ -85232,6 +85719,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1422341515 stripped
@@ -85293,6 +85784,10 @@ PrefabInstance:
     - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
       propertyPath: m_Name
       value: Ore_2_3 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
@@ -85472,6 +85967,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -85664,6 +86163,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -85949,6 +86452,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1857105461}
+  - {fileID: 314491464}
   m_Father: {fileID: 30290972}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -85970,7 +86474,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9150943, g: 0.84180593, b: 0.8330811, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -86090,6 +86594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_1 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -86196,6 +86704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &1499247102 stripped
@@ -86297,6 +86809,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -86403,6 +86919,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -86550,6 +87070,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &1533644473 stripped
@@ -86686,6 +87210,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -86860,6 +87388,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -86990,6 +87522,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -87136,6 +87672,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -87374,6 +87914,10 @@ PrefabInstance:
     - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
       propertyPath: m_Name
       value: Ore_2_3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
@@ -87651,6 +88195,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -87977,6 +88525,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &1628468924 stripped
@@ -88284,6 +88836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -88458,6 +89014,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -88699,6 +89259,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -88804,6 +89368,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -89125,6 +89693,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -89477,6 +90049,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_1 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -89667,6 +90243,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &1696267299 stripped
@@ -89813,6 +90393,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_2 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 9114212831249083630, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01eef099141fb484bb55142076b7e93d, type: 3}
 --- !u!4 &1699325824 stripped
@@ -89914,6 +90498,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -90060,6 +90648,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -90233,6 +90825,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &1736837357 stripped
@@ -90250,6 +90846,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -90312,6 +90912,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -90419,6 +91023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1762711649 stripped
@@ -90480,6 +91088,10 @@ PrefabInstance:
     - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
       propertyPath: m_Name
       value: Ore_1_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
@@ -90615,6 +91227,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -90846,6 +91462,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -90952,6 +91572,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1806251516 stripped
@@ -90969,6 +91593,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -91076,6 +91704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
 --- !u!4 &1810261485 stripped
@@ -91137,6 +91769,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -91200,6 +91836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1820695516 stripped
@@ -91217,6 +91857,10 @@ PrefabInstance:
     - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_Name
       value: Ore_3_3 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
@@ -91658,6 +92302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_2 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -91719,6 +92367,10 @@ PrefabInstance:
     - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_Name
       value: Ore_1_3 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4656461343651980838, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 4656461343651980839, guid: 4def68426fbc6b345bdf4e0fd70d6b65, type: 3}
       propertyPath: m_RootOrder
@@ -91956,6 +92608,10 @@ PrefabInstance:
     - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
       propertyPath: m_Name
       value: Ore_2_3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
@@ -92227,10 +92883,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_1
       objectReference: {fileID: 0}
-    - target: {fileID: 1026432563683142706, guid: 7b70d5ac3db274b3c9c6e7e88f6f58a0, type: 3}
-      propertyPath: m_TagString
-      value: Ore
-      objectReference: {fileID: 0}
     - target: {fileID: 9113217887678952233, guid: 7b70d5ac3db274b3c9c6e7e88f6f58a0, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -92421,6 +93073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_1_2 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 7950094977327622841, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf74904c9f8b40448e6b3609231c769, type: 3}
 --- !u!4 &1912953155 stripped
@@ -92567,6 +93223,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &1920669091 stripped
@@ -92668,6 +93328,10 @@ PrefabInstance:
     - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_Name
       value: Ore_3_2 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680275758863875091, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 6525735454044066054, guid: f94d1e8741bb0654198dde159ea859df, type: 3}
       propertyPath: m_RootOrder
@@ -92858,6 +93522,10 @@ PrefabInstance:
     - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
       propertyPath: m_Name
       value: Ore_2_3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
@@ -93142,6 +93810,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_2_3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
 --- !u!4 &1943590242 stripped
@@ -93287,6 +93959,10 @@ PrefabInstance:
     - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
       propertyPath: m_Name
       value: Ore_1_1 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604916487756796203, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9961d5a99464e4b88faab2d24854ef, type: 3}
@@ -124974,6 +125650,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_3 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 998665160110219731, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 3277025267307354338, guid: 9ec273d5556f13c458da644ccd30604d, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -125406,6 +126086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ore_3_1 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
+      objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -125467,6 +126151,10 @@ PrefabInstance:
     - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_Name
       value: Ore_3_1 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528677354568824550, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     - target: {fileID: 8702288595218206337, guid: 7d361b9272dc293409ebadf614daa5da, type: 3}
       propertyPath: m_RootOrder
@@ -125858,6 +126546,10 @@ PrefabInstance:
     - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
       propertyPath: m_Name
       value: Ore_2_3 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005694495079240395, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
+      propertyPath: m_TagString
+      value: Ore
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e40e55325a9ef418eeeaf9cac81d5b, type: 3}
