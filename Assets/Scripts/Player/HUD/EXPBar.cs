@@ -46,11 +46,10 @@ namespace Gokboerue.Gameplay
                 yield break;
             }
 
-            Debug.Log("DrillGetsHeated coroutine started");
-
+          
             // Change the mining to false
             drill.miningDuration = 10f;
-            Debug.Log("drill.miningDuration set to 10f");
+           
 
             // Wait for 2 seconds
             yield return new WaitForSeconds(2);
@@ -59,7 +58,7 @@ namespace Gokboerue.Gameplay
 
             // Change the mining back to true
             drill.miningDuration = 0.05f;
-            Debug.Log("drill.miningDuration set to  0.1f");
+            
 
             UpdateText();
             UpdateExpBar();

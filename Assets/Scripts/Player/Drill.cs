@@ -68,17 +68,30 @@ namespace Gokboerue.Gameplay
 
         private void Mine(Vector3 direction)
         {
-            var childPos = transform.GetChild(0).position;
-            RaycastHit2D hit = Physics2D.Raycast(childPos, direction, 0.1f);
-            if (hit.collider != null)
+            try
             {
-                hit.collider.GetComponent<Tilemap>().SetTile(hit.collider.GetComponent<Tilemap>().WorldToCell(hit.point), null);
-                expBar.AddEXP(5);
+                var childPos = transform.GetChild(0).position;
+                RaycastHit2D hit = Physics2D.Raycast(childPos, direction, 0.1f);
+                if (hit.collider != null)
+                {
+                    if(hit.collider.GetComponent<Tilemap>() != null)
+                    {
+                        hit.collider.GetComponent<Tilemap>().SetTile(hit.collider.GetComponent<Tilemap>().WorldToCell(hit.point), null);
+                        expBar.AddEXP(5);
+                    }
+                   
+                }
+                else
+                {
+                    currentMiningDuration = miningDuration;
+                }
             }
-            else
+            catch (System.Exception ex)
             {
-                currentMiningDuration = miningDuration;
+
+              
             }
+            
         }
 
 

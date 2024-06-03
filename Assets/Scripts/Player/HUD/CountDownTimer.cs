@@ -9,7 +9,8 @@ namespace Gokboerue.Gameplay
     public class CountDownTimer : MonoBehaviour
     {
         [SerializeField] private TextMeshProUGUI countdownText; // Reference to the TextMeshProUGUI component
-        [SerializeField] private float countdownTime = 420f; // Total countdown time in seconds (2 minutes)
+        [SerializeField] private float countdownTime = 420f; // Total countdown time in seconds (7 minutes)
+
 
         private float currentTime;
 
@@ -42,8 +43,7 @@ namespace Gokboerue.Gameplay
 
         void OnCountdownEnd()
         {
-            // Add code here for what happens when the countdown reaches 0
-            //Debug.Log("Countdown ended!");
+            GameManager.Instance.GameOver();
         }
     }
 }

@@ -9,6 +9,9 @@ namespace Gokboerue.Gameplay
         [SerializeField] private GroundCheck groundCheck;
         [SerializeField] private Drill drill;
         [SerializeField] private Joystick joystick;
+        public bool chapter1Done = false;
+        public bool chapter2Done = false;
+        public bool chapter3Done = false;
 
         private bool canTakeFallDamage = true;
         private float currentFallDamageTimer = 1f;
@@ -77,6 +80,10 @@ namespace Gokboerue.Gameplay
         private void OnTriggerEnter2D(Collider2D collision)
         {
             if (collision.tag == "Ore")
+            {
+                Destroy(collision.gameObject, 0.5f);
+            }
+            if(collision.name == "ChapterLine1")
             {
                 Destroy(collision.gameObject, 0.5f);
             }
