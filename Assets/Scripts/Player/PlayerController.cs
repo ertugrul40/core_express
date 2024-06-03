@@ -87,11 +87,17 @@ namespace Gokboerue.Gameplay
                 OreX += 1;
                 GameManager.Instance.oreX.text = "OreX: " + OreX.ToString();
             }
-            if (collision.tag == "Ore1")
+            if (collision.tag == "Ore1_2")
             {
                 Destroy(collision.gameObject, 0.5f);
-                OreX += 1;
-                GameManager.Instance.oreX.text = "OreX: " + OreX.ToString();
+                OreY += 1;
+                GameManager.Instance.oreY.text = "OreY: " + OreX.ToString();
+            }
+            if (collision.tag == "Ore1_3")
+            {
+                Destroy(collision.gameObject, 0.5f);
+                OreZ += 1;
+                GameManager.Instance.oreZ.text = "OreZ: " + OreX.ToString();
             }
             if (collision.name == "ChapterLine1")
             {
