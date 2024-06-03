@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Tilemap
   - Ore
+  - Ore1
+  - Ore2
+  - Ore3
+  - Ore1_1
   layers:
   - Default
   - TransparentFX

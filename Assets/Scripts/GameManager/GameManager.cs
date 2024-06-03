@@ -13,9 +13,13 @@ namespace Gokboerue.Gameplay
         [SerializeField] private GameObject playerObject;
         [SerializeField] private GameObject gameOverPanel;
         [SerializeField] private GameObject joyStick;
-        [SerializeField] private TextMeshProUGUI oreX;
-        [SerializeField] private TextMeshProUGUI oreY;
-        [SerializeField] private TextMeshProUGUI oreZ;
+        [SerializeField] public TextMeshProUGUI oreX;
+        [SerializeField] public  TextMeshProUGUI oreY;
+        [SerializeField] public  TextMeshProUGUI oreZ;
+        public bool chapter1Done = false;
+        public bool chapter2Done = false;
+        public bool chapter3Done = false;
+
         private int currentChapter = 1;
 
 
@@ -55,16 +59,19 @@ namespace Gokboerue.Gameplay
                 float depth = 0;
                 if (playerObject.transform.position.y < 1)
                 {
-                    depth = Mathf.Abs(playerObject.transform.position.y);
+                    depth = playerObject.transform.position.y;
+                    if (depth < -73f)
+                    {
+                        Debug.Log("Chapter 2");
+                        CheckChapterEligibility();
+                    }
+                    if (depth < -150f)
+                    {
+                        Debug.Log("Chapter 2");
+                        CheckChapterEligibility();
+                    }
                 }
-                if (depth < -73f)
-                {
-                    Debug.Log("Chapter 2");
-                }
-                if(depth < -150f)
-                {
-                    Debug.Log("Chapter 2");
-                }
+               
             }
         }
 
@@ -73,15 +80,15 @@ namespace Gokboerue.Gameplay
             var playerController = playerObject.GetComponent<PlayerController>();
             if (playerController != null)
             {
-                if (this.currentChapter == 2 && !playerController.chapter1Done)
+                if (this.currentChapter == 2 && !chapter1Done)
                 {
                     Debug.Log("Destroy when Chapter 2");
                 }
-                else if (this.currentChapter == 3 && !playerController.chapter2Done)
+                else if (this.currentChapter == 3 && !chapter2Done)
                 {
                     Debug.Log("Destroy when Chapter 3");
                 }
-                else if (this.currentChapter == 4 && !playerController.chapter3Done)
+                else if (this.currentChapter == 4 && !chapter3Done)
                 {
                     Debug.Log("Destroy when Chapter 4");
                 }

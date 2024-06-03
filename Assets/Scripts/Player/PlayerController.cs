@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 namespace Gokboerue.Gameplay
@@ -9,9 +10,10 @@ namespace Gokboerue.Gameplay
         [SerializeField] private GroundCheck groundCheck;
         [SerializeField] private Drill drill;
         [SerializeField] private Joystick joystick;
-        public bool chapter1Done = false;
-        public bool chapter2Done = false;
-        public bool chapter3Done = false;
+        public int OreX { get; set; } = 0;
+        public int OreY { get; set; } = 0;
+        public int OreZ { get; set; } = 0;
+
 
         private bool canTakeFallDamage = true;
         private float currentFallDamageTimer = 1f;
@@ -79,13 +81,29 @@ namespace Gokboerue.Gameplay
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            if (collision.tag == "Ore")
+            if (collision.tag == "Ore1_1")
+            {
+                Destroy(collision.gameObject, 0.5f);
+                OreX += 1;
+                GameManager.Instance.oreX.text = "OreX: " + OreX.ToString();
+            }
+            if (collision.tag == "Ore1")
+            {
+                Destroy(collision.gameObject, 0.5f);
+                OreX += 1;
+                GameManager.Instance.oreX.text = "OreX: " + OreX.ToString();
+            }
+            if (collision.name == "ChapterLine1")
             {
                 Destroy(collision.gameObject, 0.5f);
             }
-            if(collision.name == "ChapterLine1")
+            if(collision.name == "Chapter1Point")
             {
-                Destroy(collision.gameObject, 0.5f);
+                if(OreX >= 3 && OreY >= 3 && OreZ >= 4)
+                {
+                    GameManager.Instance.chapter1Done = true;
+                }
+               
             }
         }
     }
